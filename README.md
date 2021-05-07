@@ -1,6 +1,6 @@
-## Escola Técnica - Projeto Integrador I
+## Escola TÃ©cnica - Projeto Integrador I
 
-###  :computer: Tela
+###  :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,13 +9,13 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 -   Java;
 -   Eclipse.
 
 ----------
 
-###  :gear: Funções
+###  :gear: FunÃ§Ãµes
 - [x] PDV (Ponto de Venda);
 - [x] CRUD de Computadores;
 - [x] CRUD de Clientes.
@@ -23,7 +23,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
